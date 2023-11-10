@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "833111296431",
+    "project_id": "spider-dreams",
+    "storage_bucket": "spider-dreams.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833111296431:android:1e4e5b63403890e086075a",
+        "android_client_info": {
+          "package_name": "com.example.spider_dream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833111296431-0mv22pj55l5pfqbvohrkdin4ml1sufdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spider_dream",
+            "certificate_hash": "02beb32c7a81a4fe7cba69daf25003f4575d3152"
+          }
+        },
+        {
+          "client_id": "833111296431-aai1mdqoop5b7c265k9j5abo2clvj05l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD05C48gyW9qwW2YHN2PaIqLrtMDrZSXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833111296431-4umc4p5ogehckt41kfcde5f82sdi6kqi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "833111296431-h6nsa44a606n36icsin8at58qtckkp9d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.spiderDream"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
